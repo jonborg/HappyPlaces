@@ -1,0 +1,1792 @@
+fileFormatVersion: 2
+guid: abfb5e9ea7adf1848a9ede150504dc75
+timeCreated: 1548598613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kid_animation_0
+    21300002: Kid_animation_1
+    21300004: Kid_animation_2
+    21300006: Kid_animation_3
+    21300008: Kid_animation_4
+    21300010: Kid_animation_5
+    21300012: Kid_animation_6
+    21300014: Kid_animation_7
+    21300016: Kid_animation_8
+    21300018: Kid_animation_9
+    21300020: Kid_animation_10
+    21300022: Kid_animation_11
+    21300024: Kid_animation_12
+    21300026: Kid_animation_13
+    21300028: Kid_animation_14
+    21300030: Kid_animation_15
+    21300032: Kid_animation_16
+    21300034: Kid_animation_17
+    21300036: Kid_animation_18
+    21300038: Kid_animation_19
+    21300040: Kid_animation_20
+    21300042: Kid_animation_21
+    21300044: Kid_animation_22
+    21300046: Kid_animation_23
+    21300048: Kid_animation_24
+    21300050: Kid_animation_25
+    21300052: Kid_animation_26
+    21300054: Kid_animation_27
+    21300056: Kid_animation_28
+    21300058: Kid_animation_29
+    21300060: Kid_animation_30
+    21300062: Kid_animation_31
+    21300064: Kid_animation_32
+    21300066: Kid_animation_33
+    21300068: Kid_animation_34
+    21300070: Kid_animation_35
+    21300072: Kid_animation_36
+    21300074: Kid_animation_37
+    21300076: Kid_animation_38
+    21300078: Kid_animation_39
+    21300080: Kid_animation_40
+    21300082: Kid_animation_41
+    21300084: Kid_animation_42
+    21300086: Kid_animation_43
+    21300088: Kid_animation_44
+    21300090: Kid_animation_45
+    21300092: Kid_animation_46
+    21300094: Kid_animation_47
+    21300096: Kid_animation_48
+    21300098: Kid_animation_49
+    21300100: Kid_animation_50
+    21300102: Kid_animation_51
+    21300104: Kid_animation_52
+    21300106: Kid_animation_53
+    21300108: Kid_animation_54
+    21300110: Kid_animation_55
+    21300112: Kid_animation_56
+    21300114: Kid_animation_57
+    21300116: Kid_animation_58
+    21300118: Kid_animation_59
+    21300120: Kid_animation_60
+    21300122: Kid_animation_61
+    21300124: Kid_animation_62
+    21300126: Kid_animation_63
+    21300128: Kid_animation_64
+    21300130: Kid_animation_65
+    21300132: Kid_animation_66
+    21300134: Kid_animation_67
+    21300136: Kid_animation_68
+    21300138: Kid_animation_69
+    21300140: Kid_animation_70
+    21300142: Kid_animation_71
+    21300144: Kid_animation_72
+    21300146: Kid_animation_73
+    21300148: Kid_animation_74
+    21300150: Kid_animation_75
+    21300152: Kid_animation_76
+    21300154: Kid_animation_77
+    21300156: Kid_animation_78
+    21300158: Kid_animation_79
+    21300160: Kid_animation_80
+    21300162: Kid_animation_81
+    21300164: Kid_animation_82
+    21300166: Kid_animation_83
+    21300168: Kid_animation_84
+    21300170: Kid_animation_85
+    21300172: Kid_animation_86
+    21300174: Kid_animation_87
+    21300176: Kid_animation_88
+    21300178: Kid_animation_89
+    21300180: Kid_animation_90
+    21300182: Kid_animation_91
+    21300184: Kid_animation_92
+    21300186: Kid_animation_93
+    21300188: Kid_animation_94
+    21300190: Kid_animation_95
+    21300192: Kid_animation_96
+    21300194: Kid_animation_97
+    21300196: Kid_animation_98
+    21300198: Kid_animation_99
+    21300200: Kid_animation_100
+    21300202: Kid_animation_101
+    21300204: Kid_animation_102
+    21300206: Kid_animation_103
+    21300208: Kid_animation_104
+    21300210: Kid_animation_105
+    21300212: Kid_animation_106
+    21300214: Kid_animation_107
+    21300216: Kid_animation_108
+    21300218: Kid_animation_109
+    21300220: Kid_animation_110
+    21300222: Kid_animation_111
+    21300224: Kid_animation_112
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kid_animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_6
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_7
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_9
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_10
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2260
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_17
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_18
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_20
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_21
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2034
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_24
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_27
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_28
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_29
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_30
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_31
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_32
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1808
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_36
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_37
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_38
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_40
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_41
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_42
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_43
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1582
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_47
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_48
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_49
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_50
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_51
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_52
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_53
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_54
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1356
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_57
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_58
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_59
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_60
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_61
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_62
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_63
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_64
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_65
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1130
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_69
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_70
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_71
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_72
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_73
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_74
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_75
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_76
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 904
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_79
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_80
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_81
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_82
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_83
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_84
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_85
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_86
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_87
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 678
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_90
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_91
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_92
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_93
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_94
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_95
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_96
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_97
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_98
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 452
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_101
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_103
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_104
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_105
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_106
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_107
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_108
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_109
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 226
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kid_animation_112
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 227
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

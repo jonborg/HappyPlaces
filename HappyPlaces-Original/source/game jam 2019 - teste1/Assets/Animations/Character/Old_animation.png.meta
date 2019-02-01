@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: e0daae2fabf96b34b97daeb79424b141
+timeCreated: 1548598534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Old_animation_0
+    21300002: Old_animation_1
+    21300004: Old_animation_2
+    21300006: Old_animation_3
+    21300008: Old_animation_4
+    21300010: Old_animation_5
+    21300012: Old_animation_6
+    21300014: Old_animation_7
+    21300016: Old_animation_8
+    21300018: Old_animation_9
+    21300020: Old_animation_10
+    21300022: Old_animation_11
+    21300024: Old_animation_12
+    21300026: Old_animation_13
+    21300028: Old_animation_14
+    21300030: Old_animation_15
+    21300032: Old_animation_16
+    21300034: Old_animation_17
+    21300036: Old_animation_18
+    21300038: Old_animation_19
+    21300040: Old_animation_20
+    21300042: Old_animation_21
+    21300044: Old_animation_22
+    21300046: Old_animation_23
+    21300048: Old_animation_24
+    21300050: Old_animation_25
+    21300052: Old_animation_26
+    21300054: Old_animation_27
+    21300056: Old_animation_28
+    21300058: Old_animation_29
+    21300060: Old_animation_30
+    21300062: Old_animation_31
+    21300064: Old_animation_32
+    21300066: Old_animation_33
+    21300068: Old_animation_34
+    21300070: Old_animation_35
+    21300072: Old_animation_36
+    21300074: Old_animation_37
+    21300076: Old_animation_38
+    21300078: Old_animation_39
+    21300080: Old_animation_40
+    21300082: Old_animation_41
+    21300084: Old_animation_42
+    21300086: Old_animation_43
+    21300088: Old_animation_44
+    21300090: Old_animation_45
+    21300092: Old_animation_46
+    21300094: Old_animation_47
+    21300096: Old_animation_48
+    21300098: Old_animation_49
+    21300100: Old_animation_50
+    21300102: Old_animation_51
+    21300104: Old_animation_52
+    21300106: Old_animation_53
+    21300108: Old_animation_54
+    21300110: Old_animation_55
+    21300112: Old_animation_56
+    21300114: Old_animation_57
+    21300116: Old_animation_58
+    21300118: Old_animation_59
+    21300120: Old_animation_60
+    21300122: Old_animation_61
+    21300124: Old_animation_62
+    21300126: Old_animation_63
+    21300128: Old_animation_64
+    21300130: Old_animation_65
+    21300132: Old_animation_66
+    21300134: Old_animation_67
+    21300136: Old_animation_68
+    21300138: Old_animation_69
+    21300140: Old_animation_70
+    21300142: Old_animation_71
+    21300144: Old_animation_72
+    21300146: Old_animation_73
+    21300148: Old_animation_74
+    21300150: Old_animation_75
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old_animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2320
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_12
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_13
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_15
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_16
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_17
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2030
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_22
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_23
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_24
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_25
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_26
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1740
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_31
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_32
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_33
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_34
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_35
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1450
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_39
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_40
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_41
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_42
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_43
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_44
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1160
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_48
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_49
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_50
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_51
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_52
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_53
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 870
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_57
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_59
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_60
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_61
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_62
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 580
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_65
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_66
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_67
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_68
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_69
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_70
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_71
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 290
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_74
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Old_animation_75
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

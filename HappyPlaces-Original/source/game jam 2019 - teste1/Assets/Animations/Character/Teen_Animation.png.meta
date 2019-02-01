@@ -1,0 +1,1792 @@
+fileFormatVersion: 2
+guid: 6074b9ec61eba2c4ca8597ba2c110249
+timeCreated: 1548598577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Teen_Animation_0
+    21300002: Teen_Animation_1
+    21300004: Teen_Animation_2
+    21300006: Teen_Animation_3
+    21300008: Teen_Animation_4
+    21300010: Teen_Animation_5
+    21300012: Teen_Animation_6
+    21300014: Teen_Animation_7
+    21300016: Teen_Animation_8
+    21300018: Teen_Animation_9
+    21300020: Teen_Animation_10
+    21300022: Teen_Animation_11
+    21300024: Teen_Animation_12
+    21300026: Teen_Animation_13
+    21300028: Teen_Animation_14
+    21300030: Teen_Animation_15
+    21300032: Teen_Animation_16
+    21300034: Teen_Animation_17
+    21300036: Teen_Animation_18
+    21300038: Teen_Animation_19
+    21300040: Teen_Animation_20
+    21300042: Teen_Animation_21
+    21300044: Teen_Animation_22
+    21300046: Teen_Animation_23
+    21300048: Teen_Animation_24
+    21300050: Teen_Animation_25
+    21300052: Teen_Animation_26
+    21300054: Teen_Animation_27
+    21300056: Teen_Animation_28
+    21300058: Teen_Animation_29
+    21300060: Teen_Animation_30
+    21300062: Teen_Animation_31
+    21300064: Teen_Animation_32
+    21300066: Teen_Animation_33
+    21300068: Teen_Animation_34
+    21300070: Teen_Animation_35
+    21300072: Teen_Animation_36
+    21300074: Teen_Animation_37
+    21300076: Teen_Animation_38
+    21300078: Teen_Animation_39
+    21300080: Teen_Animation_40
+    21300082: Teen_Animation_41
+    21300084: Teen_Animation_42
+    21300086: Teen_Animation_43
+    21300088: Teen_Animation_44
+    21300090: Teen_Animation_45
+    21300092: Teen_Animation_46
+    21300094: Teen_Animation_47
+    21300096: Teen_Animation_48
+    21300098: Teen_Animation_49
+    21300100: Teen_Animation_50
+    21300102: Teen_Animation_51
+    21300104: Teen_Animation_52
+    21300106: Teen_Animation_53
+    21300108: Teen_Animation_54
+    21300110: Teen_Animation_55
+    21300112: Teen_Animation_56
+    21300114: Teen_Animation_57
+    21300116: Teen_Animation_58
+    21300118: Teen_Animation_59
+    21300120: Teen_Animation_60
+    21300122: Teen_Animation_61
+    21300124: Teen_Animation_62
+    21300126: Teen_Animation_63
+    21300128: Teen_Animation_64
+    21300130: Teen_Animation_65
+    21300132: Teen_Animation_66
+    21300134: Teen_Animation_67
+    21300136: Teen_Animation_68
+    21300138: Teen_Animation_69
+    21300140: Teen_Animation_70
+    21300142: Teen_Animation_71
+    21300144: Teen_Animation_72
+    21300146: Teen_Animation_73
+    21300148: Teen_Animation_74
+    21300150: Teen_Animation_75
+    21300152: Teen_Animation_76
+    21300154: Teen_Animation_77
+    21300156: Teen_Animation_78
+    21300158: Teen_Animation_79
+    21300160: Teen_Animation_80
+    21300162: Teen_Animation_81
+    21300164: Teen_Animation_82
+    21300166: Teen_Animation_83
+    21300168: Teen_Animation_84
+    21300170: Teen_Animation_85
+    21300172: Teen_Animation_86
+    21300174: Teen_Animation_87
+    21300176: Teen_Animation_88
+    21300178: Teen_Animation_89
+    21300180: Teen_Animation_90
+    21300182: Teen_Animation_91
+    21300184: Teen_Animation_92
+    21300186: Teen_Animation_93
+    21300188: Teen_Animation_94
+    21300190: Teen_Animation_95
+    21300192: Teen_Animation_96
+    21300194: Teen_Animation_97
+    21300196: Teen_Animation_98
+    21300198: Teen_Animation_99
+    21300200: Teen_Animation_100
+    21300202: Teen_Animation_101
+    21300204: Teen_Animation_102
+    21300206: Teen_Animation_103
+    21300208: Teen_Animation_104
+    21300210: Teen_Animation_105
+    21300212: Teen_Animation_106
+    21300214: Teen_Animation_107
+    21300216: Teen_Animation_108
+    21300218: Teen_Animation_109
+    21300220: Teen_Animation_110
+    21300222: Teen_Animation_111
+    21300224: Teen_Animation_112
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teen_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2300
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2070
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_31
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_32
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1840
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_40
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_41
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_42
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_43
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1610
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_47
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_48
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_49
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_50
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_51
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_52
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_53
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_54
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1380
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_58
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_59
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_60
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_61
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_62
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_63
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_64
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_65
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1150
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_69
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_70
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_71
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_72
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_73
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_74
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_75
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_76
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 920
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_80
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_82
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_83
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_84
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_85
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_86
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_87
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 690
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_89
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_90
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_91
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_92
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_93
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_94
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_95
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_96
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_97
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_98
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 460
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_101
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_102
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_103
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_104
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_105
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_106
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_107
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_108
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_109
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 230
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Teen_Animation_112
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 231
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
